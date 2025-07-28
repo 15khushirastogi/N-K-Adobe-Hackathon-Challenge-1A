@@ -1,0 +1,8 @@
+numpy
+pandas
+scikit-learn
+PyMuPDF
+PyPDF2
+pdfplumber
+pdfminer.six
+spacy
